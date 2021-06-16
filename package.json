@@ -1,0 +1,24 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "Este es un directorio de prueba para aprender Git y Node",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anexis19/Proyecto_Prueba_React.git"
+  },
+  "author": "Andres Hurtado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anexis19/Proyecto_Prueba_React/issues"
+  },
+  "homepage": "https://github.com/Anexis19/Proyecto_Prueba_React#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
